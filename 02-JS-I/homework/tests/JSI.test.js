@@ -12,7 +12,7 @@ const {
   menosQueNoventa,
   mayorQueCincuenta,
   suma,
-  resta,
+  resta, 
   divide,
   multiplica,
   obtenerResto,
