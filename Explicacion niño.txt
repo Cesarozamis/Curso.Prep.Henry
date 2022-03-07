@@ -1,0 +1,24 @@
+tarea:
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Variables
+Strings
+Funciones (argumentos, return)
+Declaraciones if
+Valores booleanos (true, false)
+-----------------------------------------------------------------------------------------------------------------------------
+variables
+una variable es un dato que puede ser asignado, modificado y clasificado, por ejemplo un string seria una cadena de caracteres.
+
+Strings
+es un tipo de variable que puede almacenar cualquier tipo de caracteres
+Funciones (argumentos, return)
+un argumento es el valor que toma la funcion
+Return es un comando que hace que termine lo que estaba haciendo
+
+Declaraciones if
+si se cumple la condición y es verdadera, ejecutará un bloque de código. Si es falsa, es posible ejecutar otras acciones
+
+Valores booleanos (true, false)
+los valores boleanos solo pueden ser dos estados, verdadero o falso
