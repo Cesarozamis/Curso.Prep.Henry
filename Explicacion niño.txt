@@ -21,4 +21,4 @@ Declaraciones if
 si se cumple la condición y es verdadera, ejecutará un bloque de código. Si es falsa, es posible ejecutar otras acciones
 
 Valores booleanos (true, false)
-los valores boleanos solo pueden ser dos estados, verdadero o falso
+los valores boleanos solo pueden ser dos estados, verdadero o falso.
