@@ -36,5 +36,39 @@ se deben cumplir ambas condiciones para que sea verdadero, si falta una es falso
 es verdadero si se cumple una u otra condicion, o ambas a la vez, si no es ninguna es falso
 !
 es una negacion
+------------------------------------------------------------------------------------------------------------------------------
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Arrays
+-----------------------------------------------------------------------------------------------------------------------------
+Los arrays son una lista de elementos encerrados en un [] y pueden tener cualquier tipo de datos
+-----------------------------------------------------------------------------------------------------------------------------
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+Objetos
+Propiedades
+Métodos
+Bucle for…in
+Notación de puntos vs notación de corchetes
+-----------------------------------------------------------------------------------------------------------------------------
+Objetos
+los objetos tienen mucha informacion sobre una sola cosa
+
+-----------------------------------------------------------------------------------------------------------------------------
+
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+prototype
+Constructors (de Clases)
+-----------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------
+En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras 
+explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+Funciones Callback
+-----------------------------------------------------------------------------------------------------------------------------
+las funciones callback no son más que un tipo de funciones que se pasan por parámetro a otras funciones. 
+los parámetros de dichas funciones toman un valor especial en el contexto del interior de la función.
 
 
