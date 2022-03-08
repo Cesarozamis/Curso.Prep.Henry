@@ -1,0 +1,57 @@
+body{background-image:url(../imagenes/HD-wallpaper-modern-hi-tech-abstract-background-black-corporate-hi-tech-new-shiny.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-weight: bold;
+  }
+a:link , a:visited {
+    color:seashell;
+    text-decoration: none;
+    padding: 10px;
+            }
+a:hover,a:active {
+background-color: rgba(16, 236, 82,0.4);
+border-radius: 26px;
+transition: 0.5s;
+ }
+ .navbar {background-color: rgb(19, 25, 37);
+    padding: 10px;
+    position: sticky;
+    text-align: center;
+    position: fixed;
+    top: 0;
+    width:100%;
+}
+.contenedor{
+    width: 90%;
+    font-style:normal;
+    margin: auto;
+    display: flex ;
+    justify-content: space-between;
+}
+h1{background-color: lawngreen;
+border-radius: 20px;
+text-align: center;
+}
+.navbar2 {background-color: rgb(8, 46, 1);
+    border-radius: 20px;
+}
+.contenedor2{
+    width: 90%;
+    font-style: normal;
+    margin: auto;
+    display: flex ;
+    justify-content: space-between;
+}
+.caja{
+    display:flex;
+    background-color: rgba(0, 255, 42,0.5);
+    text-align: left;
+    border-radius: 10px;
+    padding: 10px;
+}
+.perf{
+    border-radius: 50%;
+}
+.fon{ text-align: center;
+    background-color: rgba(0, 255, 42,0.5)}
